@@ -14,8 +14,8 @@ To play Matrix's Cypher, follow these simple steps:
 
 2. Clone the repository:
    ```
-   $ git clone https://github.com/unknowndeaduser/Matrix-s-Cypher.git
-   $ cd Matrix-s-Cypher
+   $ git clone https://github.com/unknowndeaduser/Matrix-Cypher.git
+   $ cd Matrix-Cypher
    ```
 
 3. Build the game:
